@@ -140,7 +140,12 @@
           </a>
         </li>
 
-        <li class="header">USERS</li>
+        <li class="header">SETTINGS</li>
+        <li>
+          <a href="<?php echo base_url('auth/users') ?>">
+            <i class="fa fa-user"></i> <span>Users</span>
+          </a>
+        </li>
       <?php } ?>
         
         
