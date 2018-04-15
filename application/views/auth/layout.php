@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>ERP HARTIKA</title>
+  <title>ERP</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -113,8 +113,8 @@
           </a>
         </li>
         <li>
-          <a href="#">
-            <i class="fa fa-th"></i> <span>Absensi</span>
+          <a href="<?php echo base_url('auth/absen') ?>">
+            <i class="fa fa-th"></i> <span>Absensi Pegawai</span>
           </a>
         </li>
         <li>

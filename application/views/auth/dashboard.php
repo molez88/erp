@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-12">
       <div class="box">
-      	<h1>Dashboard</h1>
+      	<h2>Selamat datang</h2>
       </div>
     </div>
 </section>
